@@ -10,7 +10,7 @@ A static, dependency-free portfolio built with HTML, CSS and vanilla JavaScript.
 
 ## Before publishing
 
-- Replace every `TODO-your-domain.com` placeholder in `index.html`, `robots.txt` and `sitemap.xml` with the production domain.
+- The production URL is set to `https://portfolio-frendy.vercel.app/` in `index.html`, `robots.txt` and `sitemap.xml`. If you connect a custom domain, update those three files.
 - Add the TELUS Digital dates and the missing project links in the `CONTENT` object at the top of `script.js`.
 - Replace `assets/profile.jpg` and `assets/profile.webp` (both square) and `assets/og-image.jpg` (1200 × 630) if the photo or sharing card changes.
 - Update `lastmod` in `sitemap.xml` when content changes.
